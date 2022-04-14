@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/blank_image"/>
+    <item
+        android:left="400dp"
+        android:right="400dp"
+        android:top="400dp"
+        android:bottom="400dp"
+        android:drawable="@drawable/splash"
+        android:gravity="center" />
+
+
+</layer-list>
